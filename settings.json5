@@ -1,9 +1,12 @@
 {
-    // Render all spaces and tabs
+    // Render spaces and tabs whitespace
     "editor.renderWhitespace": "all",
 
     // Trim whitespaces
     "editor.trimAutoWhitespace": true,
+
+    // Disable sourcecode overview
+    "editor.minimap.enabled": false,
 
     // Do NOT jump in the file explorer if another editor was selected
     "explorer.autoReveal": false,
@@ -32,5 +35,9 @@
         "editor.wordWrap": "on",
         "editor.quickSuggestions": false,
         "editor.trimAutoWhitespace": false
-    }
+    },
+
+    // https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+    "bracketPairColorizer.highlightActiveScope": true,
+    "workbench.iconTheme": "vscode-icons"
 }
