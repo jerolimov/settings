@@ -1,9 +1,16 @@
 {
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    "window.zoomLevel": -1,
+
     // Render spaces and tabs whitespace
     "editor.renderWhitespace": "all",
 
     // Trim whitespaces
     "editor.trimAutoWhitespace": true,
+
+    // Disable (activity) bar on the left side
+    "workbench.activityBar.visible": false,
 
     // Disable sourcecode overview
     "editor.minimap.enabled": false,
@@ -14,14 +21,18 @@
     // Disable "open editors"
     "explorer.openEditors.visible": 0,
 
-    // Styling
+    // Styling / Theming
     "workbench.colorTheme": "Atom One Light",
+    "workbench.iconTheme": "vscode-icons",
+
+    // Preview
     "workbench.editor.enablePreview": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.quickOpen.closeOnFocusLost": false,
-    "window.zoomLevel": 0,
 
     // Zenmode
     "zenMode.fullScreen": false,
+    "zenMode.centerLayout": false,
 
     "[json]": {
         "editor.tabSize": 2,
@@ -39,5 +50,4 @@
 
     // https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
     "bracketPairColorizer.highlightActiveScope": true,
-    "workbench.iconTheme": "vscode-icons"
 }
