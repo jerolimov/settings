@@ -1,5 +1,5 @@
 {
-    // Render spaces and tabs whitespace
+    // Render all spaces and tabs
     "editor.renderWhitespace": "all",
 
     // Trim whitespaces
