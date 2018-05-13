@@ -1,0 +1,33 @@
+{
+    // Render spaces and tabs whitespace
+    "editor.renderWhitespace": "all",
+
+    // Trim whitespaces
+    "editor.trimAutoWhitespace": true,
+
+    // Do NOT jump in the file explorer if another editor was selected
+    "explorer.autoReveal": false,
+
+    // Disable "open editors"
+    "explorer.openEditors.visible": 0,
+
+    // Styling
+    "workbench.colorTheme": "Atom One Light",
+    "workbench.editor.enablePreview": true,
+    "workbench.quickOpen.closeOnFocusLost": false,
+    "window.zoomLevel": 0,
+
+    "[json]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.trimAutoWhitespace": false
+    }
+}
