@@ -3,6 +3,7 @@
 ## Theme
 
 * [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight) 
+* [Icon Pack](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
 ## Programming language support
 
@@ -36,4 +37,3 @@
 ## Other extensions
 
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-* [Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
